@@ -1,0 +1,57 @@
+body
+{
+  background-color: #d5cad0;
+}
+.container
+{
+  margin-top: 50px;
+  text-align:center;
+  font-family: sans-serif,Arial;
+}
+.pytanie
+{
+  margin-top: 10px;
+  font-size: 18px;
+  /*border: 1px solid black;*/
+}
+.milio
+{
+  margin-top: 10px;
+  /*border: 1px solid black;*/
+}
+.siema
+{
+  background-color: #fff;
+  border: 1px solid gray;
+}
+input[type=submit]
+{
+ margin-top: 10px;
+ margin-bottom: 15px;
+ width: 250px;
+ border: none;
+ border-radius: 3px;
+ clear: both;
+ cursor: pointer;
+ font-weight: 500;
+ text-align: center;
+ vertical-align: middle;
+ white-space: nowrap;
+ user-select: none;
+ font-size: 18px;
+ font-family: sans-serif,Arial;
+ height: 42px;
+ line-height: 42px;
+ padding: 0 20px;
+ background: #006cff;
+ color: #fff;
+}
+.witam
+{
+  background-color: #fff;
+  border: 1px solid gray;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: left;
+  padding: 10px;
+}
